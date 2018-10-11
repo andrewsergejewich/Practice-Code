@@ -1,2 +1,3 @@
-QMIND Practice Assignemtn
+QMIND Practice Assignment
 GitHub
+Master Branch - Text file edits
