@@ -1,2 +1,3 @@
-QMIND Practice Assignemtn
-GitHub
+QMIND Practice Assignment
+GitHub - Practice
+Repositories and Branches
